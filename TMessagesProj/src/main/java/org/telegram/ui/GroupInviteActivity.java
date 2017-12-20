@@ -43,7 +43,7 @@ import org.telegram.ui.Components.EmptyTextProgressView;
 import org.telegram.ui.Components.LayoutHelper;
 import org.telegram.ui.Components.RecyclerListView;
 
-public class GroupInviteActivity extends BaseFragment implements NotificationCenter.NotificationCenterDelegate {
+public
 
     private ListAdapter listAdapter;
     private RecyclerListView listView;
